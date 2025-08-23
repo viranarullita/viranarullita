@@ -1,11 +1,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=viranarullita&label=Profile%20Views&color=F77FBE&style=for-the-badge" alt="visitor badge"/>
 </p>
-<p align="center">
-  <a href="https://github.com/viranarullita">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviranarullita&count_bg=%23F77FBE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-  </a>
-</p>
 
 <h1 align="center">Hi, I'm Vira Narullita</h1>
 <h3 align="center">Future .NET Developer | Lifelong Learner</h3>
