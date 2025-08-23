@@ -9,7 +9,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 - 🎓 Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
 - 💡 Passionate about building software solutions with **C#, ASP.NET Core, REST API, HTML and CSS**  
 - 🌱 Currently exploring **ReactJS, Tailwind CSS**  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 My Toolbox
+## My Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs"            title="C#"               alt="C#"               width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet"        title=".NET / ASP.NET"   alt=".NET"             width="45" height="45"/>&nbsp;
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" height="150" />
@@ -45,14 +45,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/rainbow-grid.svg" alt="rainbow grid animation" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vira-narullita-b934b1287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
