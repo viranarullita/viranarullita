@@ -10,7 +10,7 @@
 ---
 
 ### 🌸 About Me
-✨ Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung (GPA 3.68)  
+✨ Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung (GPA 3.74)  
 🏆 PUB Scholarship Awardee | Cohort 22  
 💡 Passionate about building software solutions with **C#, .NET, and ReactJS**  
 🌱 Currently diving into **ASP.NET Core & REST API**  
@@ -20,7 +20,7 @@
 
 ### 🛠 My Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,tailwind,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,tailwind,c,mysql,git,vscode" />
 </p>
 
 ---
