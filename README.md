@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vira Narullita</h1>
-<h3 align="center">💻 Future .NET Developer | 🌱 Lifelong Learner 🚀</h3>
+<h3 align="center">Future .NET Developer | Lifelong Learner</h3>
 
 ---
 
