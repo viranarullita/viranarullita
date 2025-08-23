@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vira Narullita</h1>
+<h1 align="center">Hi, I'm Vira Narullita</h1>
 <h3 align="center">💻 Future .NET Developer | 🌱 Lifelong Learner 🚀</h3>
 
 ---
