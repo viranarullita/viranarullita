@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  ✨ *“Keep learning, keep coding, keep growing.”* ✨
+  ✨ “Keep learning, keep coding, keep growing” ✨
 </p>
