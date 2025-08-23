@@ -19,7 +19,7 @@
 
 ## 🛠 My Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,c,tailwind,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,c,tailwind,mysql,git,vscode,visualstudio" />
 </p>
 
 ---
