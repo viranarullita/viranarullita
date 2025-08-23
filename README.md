@@ -18,32 +18,22 @@
 ---
 
 ## 🛠 My Toolbox
-<div align="center">
-
-  <!-- Core -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs"            title="C#"               alt="C#"               width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=dotnet"        title=".NET / ASP.NET"   alt=".NET"             width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=react"         title="ReactJS"          alt="ReactJS"          width="45" height="45"/>&nbsp;
-
-  <!-- Web Basics -->
   <img src="https://skillicons.dev/icons?i=html"          title="HTML5"            alt="HTML5"            width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css"           title="CSS3"             alt="CSS3"             width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=js"            title="JavaScript"       alt="JavaScript"       width="45" height="45"/>&nbsp;
-
-  <!-- Languages & UI -->
   <img src="https://skillicons.dev/icons?i=c"             title="C Language"       alt="C"                width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind"      title="Tailwind CSS"     alt="Tailwind CSS"     width="45" height="45"/>&nbsp;
-
-  <!-- Data & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql"         title="MySQL"            alt="MySQL"            width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=git"           title="Git"              alt="Git"              width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=github"        title="GitHub"           alt="GitHub"           width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode"        title="VS Code"          alt="VS Code"          width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=visualstudio"  title="Visual Studio"    alt="Visual Studio"    width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postman"       title="Postman"          alt="Postman"          width="45" height="45"/>
-
-</div>
-
+</p>
 
 ---
 
