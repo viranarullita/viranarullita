@@ -10,7 +10,7 @@
 ---
 
 ## 🌸 About Me
-- 🎓 Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung (GPA 3.74)  
+- 🎓 Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
 - 🏆 PUB Scholarship Awardee | Cohort 22  
 - 💡 Passionate about building software solutions with **C#, ASP.NET Core, REST API, HTML and CSS**  
 - 🌱 Currently exploring **ReactJS, Tailwind CSS**  
