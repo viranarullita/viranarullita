@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Vira Narullita</h1>
-<h3 align="center">Future .NET Developer | Lifelong Learner</h3>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=viranarullita&label=Profile%20Views&color=F77FBE&style=for-the-badge" alt="visitor badge"/>
 </p>
+<h1 align="center">Hi, I'm Vira Narullita</h1>
+<h3 align="center">Future .NET Developer | Lifelong Learner</h3>
+
 ---
 
 <p align="center">
