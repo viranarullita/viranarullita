@@ -9,7 +9,7 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 ✨ Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung (GPA 3.74)  
 🏆 PUB Scholarship Awardee | Cohort 22  
 💡 Passionate about building software solutions with **C#, .NET, and ReactJS**  
@@ -18,14 +18,14 @@
 
 ---
 
-### 🛠 My Toolbox
+### My Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,c,tailwind,mysql,git,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" height="150" />
@@ -33,14 +33,14 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Rainbow Contribution Grid
 <p align="center">
-  <img src="https://github.com/viranarullita/viranarullita/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/viranarullita/viranarullita/blob/output/rainbow-grid.svg" alt="rainbow grid animation" />
 </p>
 
 ---
 
-### ☕ Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vira-narullita-b934b1287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
