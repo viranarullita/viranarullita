@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&lines=Informatics+Student;Aspiring+.NET+Developer;React+%7C+ASP.NET+Core+%7C+C%23;Keep+Learning+Keep+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&lines=Informatics+Student;Aspiring+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+React+%7C+HTML+%7C+CSS;Keep+Learning+Keep+Growing!">
 </p>
 
 ---
