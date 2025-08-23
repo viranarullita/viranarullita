@@ -33,7 +33,7 @@
 
 ---
 
-## 🌈 Rainbow Contribution Grid
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/rainbow-grid.svg" alt="rainbow grid animation" />
 </p>
