@@ -32,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=c"             title="C Language"       alt="C"                width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind"      title="Tailwind CSS"     alt="Tailwind CSS"     width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql"         title="MySQL"            alt="MySQL"            width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres"      title="PostgreSQL"       alt="PostgreSQL"       width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=git"           title="Git"              alt="Git"              width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=github"        title="GitHub"           alt="GitHub"           width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode"        title="VS Code"          alt="VS Code"          width="45" height="45"/>&nbsp;
