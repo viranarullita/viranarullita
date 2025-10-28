@@ -8,8 +8,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&lines=Informatics+Student;Aspiring+.NET+and+Frontend+Developer;C%23+%7C+ASP.NET+Core+MVC+%7C+ReactJS;Keep+Learning+Keep+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+.NET+and+Frontend+Developer;C%23+%7C+ASP.NET+Core+MVC+%7C+React.js;Keep+Learning+Keep+Growing!">
 </p>
+
 
 ---
 
