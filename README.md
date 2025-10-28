@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi, I'm Vira Narullita</h1>
-<h3 align="center">Future .NET Developer | Lifelong Learner</h3>
+<h3 align="center">Future .NET Developer and Frontend Developer | Lifelong Learner</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&lines=Informatics+Student;Aspiring+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+ReactJS;Keep+Learning+Keep+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&lines=Informatics+Student;Aspiring+.NET+and+Frontend+Developer;C%23+%7C+ASP.NET+Core+MVC+%7C+ReactJS;Keep+Learning+Keep+Growing!">
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ## About Me
 - Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
 - Passionate about building software solutions with **C#, ASP.NET Core, REST API, HTML and CSS**  
-- Currently exploring **ReactJS, Tailwind CSS**  
+- Currently exploring **React.js, Tailwind CSS, Typescript, python**  
 - Love to collaborate, learn, and share knowledge  
 
 ---
