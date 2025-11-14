@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+.NET+and+Frontend+Developer;C%23+%7C+ASP.NET+Core+MVC+%7C+React.js;Keep+Learning+Keep+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+Fullstack+Developer;C%23+%7C+React.js+Node.js+Express.js+%7C+HTML;Keep+Learning+Keep+Growing!">
 </p>
 
 
@@ -16,8 +16,8 @@
 
 ## About Me
 - Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
-- Passionate about building software solutions with **C#, ASP.NET Core, REST API, HTML and CSS**  
-- Currently exploring **React.js, Tailwind CSS, Typescript, python**  
+- Passionate about building software solutions with **React.js, Node.js dengan Express.js, C#, HTML**  
+- Currently exploring **Typescript, python**  
 - Love to collaborate, learn, and share knowledge  
 
 ---
