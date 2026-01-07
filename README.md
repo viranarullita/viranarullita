@@ -8,59 +8,73 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+Developer;C%23+%7C+React.js+%7C+HTML;Keep+Learning+Keep+Growing!">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+Developer;C%23+%7C+React.js+%7C+HTML;Keep+Learning+Keep+Growing!" 
+    alt="Typing SVG"
+  />
 </p>
-
 
 ---
 
 ## About Me
-- Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
+- Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung  
 - Passionate about building software solutions with **React.js, C#, HTML**  
-- Currently exploring **python**  
+- Currently exploring **Python**  
 - Love to collaborate, learn, and share knowledge  
 
 ---
 
 ## My Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs"            title="C#"               alt="C#"               width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet"        title=".NET / ASP.NET"   alt=".NET"             width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=react"         title="ReactJS"          alt="ReactJS"          width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=html"          title="HTML5"            alt="HTML5"            width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css"           title="CSS3"             alt="CSS3"             width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=js"            title="JavaScript"       alt="JavaScript"       width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=c"             title="C Language"       alt="C"                width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind"      title="Tailwind CSS"     alt="Tailwind CSS"     width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql"         title="MySQL"            alt="MySQL"            width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres"      title="PostgreSQL"       alt="PostgreSQL"       width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git"           title="Git"              alt="Git"              width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=github"        title="GitHub"           alt="GitHub"           width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode"        title="VS Code"          alt="VS Code"          width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio"  title="Visual Studio"    alt="Visual Studio"    width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman"       title="Postman"          alt="Postman"          width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C Language" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="45" height="45"/>
 </p>
 
 ---
 
 ## Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&theme=tokyonight&langs_count=8" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&theme=tokyonight&langs_count=8" 
+    height="200"
+  />
 </p>
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" 
+    height="150"
+  />
 </p>
 
 ---
 
 ## Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/rainbow-grid.svg" alt="rainbow grid animation" />
+  <img 
+    src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/rainbow-grid.svg" 
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
@@ -68,22 +82,22 @@
 ## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vira-narullita-b934b1287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:viranarullita3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/viranarullita">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="girl coding gif">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="girl coding gif"/>
 </p>
 
 <p align="center">
-  ✨ “Keep learning, keep coding, keep growing” ✨
+  ✨ <b>“Keep learning, keep coding, keep growing”</b> ✨
 </p>
