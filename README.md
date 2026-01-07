@@ -18,7 +18,7 @@
 
 ## About Me
 - Mahasiswi **Manajemen Informatika (D3)** 
-- Memiliki minat besar dalam pengembangan perangkat lunak menggunakan **React / C# / HTML**  
+- Memiliki minat besar dalam pengembangan perangkat lunak menggunakan **React.js / C# / HTML**  
 - Saat ini sedang mempelajari **Python**  
 - Senang berkolaborasi, belajar hal baru, dan berbagi pengetahuan 
 
