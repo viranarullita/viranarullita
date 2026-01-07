@@ -58,16 +58,8 @@
 
 ## GitHub Overview
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400&v=1"
-    height="170"
-    alt="Most Used Languages"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1"
-    height="170"
-    alt="GitHub Stats"
-  />
+  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20React%20%7C%20HTML-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-success?style=for-the-badge" />
 </p>
 
 ---
