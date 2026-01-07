@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Vira Narullita</h1>
-<h3 align="center">Future Fullstack Developer | Lifelong Learner</h3>
+<h3 align="center">Future Developer | Lifelong Learner</h3>
 
 ---
 
@@ -16,8 +16,8 @@
 
 ## About Me
 - Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung 
-- Passionate about building software solutions with **React.js, Node.js dengan Express.js, C#, HTML**  
-- Currently exploring **Typescript, python**  
+- Passionate about building software solutions with **React.js, C#, HTML**  
+- Currently exploring **python**  
 - Love to collaborate, learn, and share knowledge  
 
 ---
