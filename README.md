@@ -45,25 +45,6 @@
 
 ---
 
-## Most Used Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viranarullita&layout=compact&langs_count=6"
-    height="200"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-## GitHub Overview
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20React%20%7C%20HTML-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-success?style=for-the-badge" />
-</p>
-
----
-
 ## Contribution Snake
 <p align="center">
   <img 
