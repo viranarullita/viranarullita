@@ -47,23 +47,26 @@
 
 ## Most Used Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&theme=tokyonight&langs_count=8" 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viranarullita&layout=compact&langs_count=6"
     height="200"
+    alt="Most Used Languages"
   />
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" 
-    height="150"
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viranarullita&layout=compact&langs_count=6&theme=tokyonight"
+    height="170"
+    alt="Most Used Languages"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" 
-    height="150"
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight"
+    height="170"
+    alt="GitHub Stats"
   />
 </p>
 
