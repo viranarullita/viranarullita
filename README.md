@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+Developer;C%23+%7C+React.js %7C+HTML;Keep+Learning+Keep+Growing!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F77FBE&center=true&vCenter=true&width=600&lines=Informatics+Student;Aspiring+Developer;C%23+%7C+React.js+%7C+HTML;Keep+Learning+Keep+Growing!">
 </p>
 
 
