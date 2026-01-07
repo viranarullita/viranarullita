@@ -26,21 +26,21 @@
 
 ## My Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C Language" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="45" height="45"/>
 </p>
 
 ---
@@ -48,9 +48,8 @@
 ## Most Used Languages
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&langs_count=6&cache_seconds=86400" 
-    height="180"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viranarullita&layout=compact&theme=tokyonight&langs_count=8" 
+    height="200"
   />
 </p>
 
@@ -59,9 +58,12 @@
 ## GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=viranarullita&show_icons=true&theme=tokyonight" 
     height="150"
-    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=viranarullita&theme=tokyonight" 
+    height="150"
   />
 </p>
 
@@ -70,7 +72,7 @@
 ## Contribution Snake
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/viranarullita/viranarullita/output/rainbow-grid.svg" 
     alt="Contribution Snake"
   />
 </p>
@@ -93,7 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="girl coding gif"/>
 </p>
 
 <p align="center">
