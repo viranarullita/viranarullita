@@ -17,10 +17,10 @@
 ---
 
 ## About Me
-- Student of **Informatics Management (D3)** at Universitas Nasional Pasim Bandung  
-- Passionate about building software solutions with **React.js, C#, HTML**  
-- Currently exploring **Python**  
-- Love to collaborate, learn, and share knowledge  
+- Mahasiswi **Manajemen Informatika (D3)** 
+- Memiliki minat besar dalam pengembangan perangkat lunak menggunakan **React / C# / HTML**  
+- Saat ini sedang mempelajari **Python**  
+- Senang berkolaborasi, belajar hal baru, dan berbagi pengetahuan 
 
 ---
 
